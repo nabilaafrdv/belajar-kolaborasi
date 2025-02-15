@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-belajar kolaboras
+belajar kolaborasi
